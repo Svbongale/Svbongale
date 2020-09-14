@@ -1,8 +1,5 @@
 ### Hi there 👋 I'am Savya Sachi V B 
 
-<!--
-**Svbongale/Svbongale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some stuff about me:
 
 - 🔭 I’m currently working on ...Node.js and Express
