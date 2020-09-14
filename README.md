@@ -6,6 +6,6 @@ Here are some stuff about me:
 - 🌱 I’m currently learning ... Java! 
 - 🤔 I’m looking for help with ... Remembering syntax of Java
 - 💬 Ask me about ... My achievements
-- 📫 How to reach me: ... LinkedIn "linkedin.com/in/savya-sachi-v-b-7854551b1"
+- 📫 How to reach me: ... LinkedIn: linkedin.com/in/savya-sachi-v-b-7854551b1
 - ⚡ Fun fact: ..."A programmers duty is to find what wrong things can the END USERS do with the application! LOL🤓"
 -->
