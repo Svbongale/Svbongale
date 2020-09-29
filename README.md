@@ -3,7 +3,7 @@
 Here's some stuff about me:
 
 - 🔭 I’m currently working on ...Node.js and Express.
-- 🌱 I’m currently learning ... Java! 
+- 🌱 I’m currently learning ... Java,Web Devolopment 
 - 🤔 I’m looking for help with ... Remembering  Java syntax. 
 - 💬 Ask me about ... My achievements.
 - 📫 How to reach me: ... LinkedIn: https://www.linkedin.com/in/savya-sachi-v-b-7854551b1/
