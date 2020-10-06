@@ -13,7 +13,3 @@ Here's some stuff about me:
 
 
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Svbongale&repo=github-readme-stats" />
-
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Svbongale&repo=convoychat" />
