@@ -12,9 +12,8 @@ Here's some stuff about me:
 <img src="https://github-readme-stats.vercel.app/api?username=Svbongale&&show_icons=true&title_color=15b6d6&icon_color=d68915&text_color=ffffff&bg_color=151515">
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Svbongale&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
+
+
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Svbongale&repo=convoychat" />
-</a>
