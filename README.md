@@ -11,7 +11,7 @@ Here's some stuff about me:
 - 🧧 My Web Projects: 1.BlogApp: https://svbblog.herokuapp.com/blogs . 
                       2.PC E-commerce website: https://pcecom.herokuapp.com/ .
 <img src="https://github-readme-stats.vercel.app/api?username=Svbongale&&show_icons=true&title_color=15b6d6&icon_color=d68915&text_color=ffffff&bg_color=151515">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Svbongale&layout=compact&theme=vue">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Svbongale&theme=vue">
 
 
 
