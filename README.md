@@ -7,7 +7,7 @@ Here's some stuff about me:
 - 🤔 I’m looking for help with ... Remembering  Java syntax. 
 - 📫 How to reach me: ... LinkedIn: https://www.linkedin.com/in/savya-sachi-v-b-7854551b1/ 
 - ⚡ Fun fact: ..."A programmers duty is to find what wrong things can the END USERS do with the application! LOL🤓".
-- 🧧 My Web Projects:<br><br> <hr>1.BlogApp: https://svbblog.herokuapp.com/blogs . <br>
+- 🧧 My Web Projects:<br> <hr>1.BlogApp: https://svbblog.herokuapp.com/blogs . <br>
                       2.PC E-commerce website: https://pcecom.herokuapp.com/ .
                       <br>
                       3. Yelpcamp(Camping Website): https://yelpsvb.herokuapp.com/ 
