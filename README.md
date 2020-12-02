@@ -4,10 +4,11 @@ Here's some stuff about me:
 
 - 🔭 I’m currently working on ...Node.js and Express.
 - 🌱 I’m currently learning ... Java,Web Devolopment.
-- 🤔 I’m looking for help with ... Remembering  Java syntax. 
-- 📫 How to reach me: ... LinkedIn: https://www.linkedin.com/in/savya-sachi-v-b-7854551b1/ 
-- ⚡ Fun fact: ..."A programmers duty is to find what wrong things can the END USERS do with the application! LOL🤓".
-- 🧧 My Web Projects:<br> <hr>1.BlogApp: https://svbblog.herokuapp.com/blogs . <br>
+- <h1>Check out My Page <a href="https://svbongale.github.io/Portfolio/">here</a></h1>
+ 
+ 
+ <h1> Check out My Web Projects:</h1>
+ <br> <hr>1.BlogApp: https://svbblog.herokuapp.com/blogs . <br>
                       2.PC E-commerce website: https://pcecom.herokuapp.com/ .
                       <br>
                       3. Yelpcamp(Camping Website): https://yelpsvb.herokuapp.com/ 
