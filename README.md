@@ -4,9 +4,9 @@ Here's some stuff about me:
 
 - 🔭 I’m currently working on ...Node.js and Express.
 - 🌱 I’m currently learning ... Java,Web Devolopment.
- <h1>Check out My Page <a href="https://svbongale.github.io/Portfolio/">here</a></h1> 
- <h1> Check out My Web Projects:</h1>
- <br> <hr>
+ <h2>Check out My Page <a href="https://svbongale.github.io/Portfolio/">here</a></h2> 
+ <h2> Check out My Web Projects:</h2>
+ <br> 
                       <h3>1.BlogApp: https://svbblog.herokuapp.com/blogs .</h3> <br>
                       <h3>2.PC E-commerce website: https://pcecom.herokuapp.com/ .</h3>
                       <br>
